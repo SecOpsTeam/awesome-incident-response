@@ -1,3 +1,12 @@
+### IT Security Telegram Channel
+
+1. [Telegram Link ](https://t.me/SecOpsChannel) - Lot other from the world of Security.
+
+### IT Security Mobile App to keep you updated..
+
+2. [AttackIO App ](https://attackio.app/) - The world of information security is now in your palm !!.
+
+
 # Awesome Incident Response [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of tools and resources for security incident response, aimed to help security analysts and [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-%28DFIR%29.html) teams.
